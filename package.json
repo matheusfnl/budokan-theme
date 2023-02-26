@@ -2,10 +2,25 @@
   "name": "budokan-theme",
   "displayName": "Budokan Official",
   "description": "A cool theme",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "matheusfunil",
   "engines": {
     "vscode": "^1.75.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matheusfnl/budokan-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "brown theme",
+    "brown",
+    "matheusfunil",
+    "budokan",
+    "budokan theme",
+    "budokan dark theme"
+  ],
   "categories": [
     "Themes"
   ],
