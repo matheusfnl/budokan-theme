@@ -4,6 +4,7 @@
   "description": "A cool theme",
   "version": "1.0.0",
   "publisher": "matheusfunil",
+  "icon": "images/budokan-icon.png",
   "engines": {
     "vscode": "^1.75.0"
   },
