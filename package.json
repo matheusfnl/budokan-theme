@@ -1,6 +1,6 @@
 {
   "name": "budokan-theme",
-  "displayName": "budokan-theme",
+  "displayName": "Budokan Theme",
   "description": "A cool theme",
   "version": "0.0.1",
   "engines": {
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Budokan Theme",
+        "label": "budokan-theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Budokan Theme-color-theme.json"
+        "path": "./themes/budokan-theme-color-theme.json"
       }
     ]
   }
