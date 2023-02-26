@@ -1,6 +1,4 @@
-# budokan-theme README
-
-## Budokan Theme
+# Budokan Theme
 
 This theme is cool :D
 
