@@ -2,7 +2,7 @@
   "name": "budokan-theme",
   "displayName": "Budokan Official",
   "description": "A cool theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "matheusfunil",
   "icon": "images/budokan-icon.png",
   "engines": {
