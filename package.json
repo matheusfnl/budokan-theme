@@ -35,7 +35,7 @@
       {
         "label": "Budokan Shiny",
         "uiTheme": "vs-dark",
-        "path": "./themes/budokan-shiny-theme-color-theme.json"
+        "path": "./themes/budokan-theme-shiny-color-theme.json"
       }
     ]
   }
